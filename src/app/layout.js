@@ -6,6 +6,8 @@ export default function layout({ children }) {
   return (
     <html lang="en">
       <body>
+
+        
         <Header />
         {children}
         <Footer />
